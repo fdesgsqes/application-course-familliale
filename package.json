@@ -1,0 +1,10 @@
+{
+  "name": "application-course",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Application Course - liste de courses familiale securisee.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
